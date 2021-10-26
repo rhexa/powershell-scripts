@@ -1,0 +1,1 @@
+﻿powershell.exe -windowstyle hidden -Command 'emulator -avd $(emulator -list-avds | select -First 1)'
