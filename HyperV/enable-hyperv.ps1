@@ -1,0 +1,1 @@
+Start-Process -Verb RunAs powershell.exe -Args 'bcdedit /set hypervisorlaunchtype auto'
